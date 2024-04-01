@@ -1,0 +1,1 @@
+This game is a AI word guessing game>
